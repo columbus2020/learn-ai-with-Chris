@@ -1,2 +1,8 @@
-# learn-ai-with-Chris
- Learning and Teaching AI from Nairobi to the World 🌍 Daily notes, code, and resources from AI with Chris Columbus Public ✅
+\# Learn AI with Chris
+
+Day 1 - Sept 28, 2026: I cloned my first repo!
+
+Goal: Learn AI from zero and build projects.
+
+\- Nairobi, KE
+
